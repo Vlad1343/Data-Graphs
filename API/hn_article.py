@@ -12,3 +12,4 @@ response_dict = r.json()
 readable_file = 'API/hn_article.json'
 with open(readable_file, 'w') as f:
     json.dump(response_dict, f, indent=4)
+    
