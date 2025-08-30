@@ -9,9 +9,9 @@
 # plt.show()
 
 
-import matplotlib.pyplot as plt
-marks = [90, 80, 70, 60, 50]
-subjects = ['Maths', 'Physics', 'Chemistry', 'Biology', 'English']
-plt.axis("equal")
-plt.pie(marks, labels=subjects, startangle=90, autopct='%1.1f%%')
-plt.show()
+# import matplotlib.pyplot as plt
+# marks = [90, 80, 70, 60, 50]
+# subjects = ['Maths', 'Physics', 'Chemistry', 'Biology', 'English']
+# plt.axis("equal")
+# plt.pie(marks, labels=subjects, startangle=90, autopct='%1.1f%%')
+# plt.show()
