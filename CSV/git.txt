@@ -1,0 +1,8 @@
+
+git add .
+git commit -m "CSV Analysis + Matplotlib"
+git push
+
+git add Matplotlib
+git commit -m "CSV Analysis + Matplotlib"
+git push
