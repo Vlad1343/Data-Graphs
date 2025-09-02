@@ -1,7 +1,0 @@
-git add .
-git commit -m "Plotly - Building Graphs"
-git push
-
-git add Plotly
-git commit -m "Plotly - Building Graphs"
-git push
