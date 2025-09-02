@@ -26,4 +26,4 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Other files
-git.txt
+*/git.txt
