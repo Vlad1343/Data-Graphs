@@ -3,6 +3,6 @@ git add .
 git commit -m "CSV Analysis + Matplotlib"
 git push
 
-git add Matplotlib
+git add CSV
 git commit -m "CSV Analysis + Matplotlib"
 git push
