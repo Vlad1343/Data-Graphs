@@ -24,3 +24,4 @@ with open("CSV/sitka_weather_2018.csv", "w") as f:
     f.write("\n".join(weather_data))
 
 print("Generated", len(weather_data), "rows.")
+
