@@ -1,0 +1,29 @@
+# Global .gitignore file
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor settings
+.vscode/
+.idea
+
+# Python-specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other files
+git.txt
