@@ -2,6 +2,6 @@ git add .
 git commit -m "Plotly - Building Graphs"
 git push
 
-git add git.txt
+git add Plotly
 git commit -m "Plotly - Building Graphs"
 git push

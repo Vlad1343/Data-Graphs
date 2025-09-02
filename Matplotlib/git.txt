@@ -2,6 +2,6 @@ git add .
 git commit -m "Matplotlib - Data Visualisation"
 git push
 
-git add git.txt
+git add Matplotlib
 git commit -m "Matplotlib - Data Visualisation"
 git push
