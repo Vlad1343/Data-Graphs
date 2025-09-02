@@ -79,3 +79,4 @@ my_layout = Layout(title='Results of Rolling two a D6 and a D10 50000 Times',
 offline.plot({'data': data, 'layout': my_layout}, filename='cube/d6_d10.html')
 
 
+
