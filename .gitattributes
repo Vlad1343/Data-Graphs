@@ -13,6 +13,7 @@ docs/** linguist-documentation
 *.css linguist-language=CSS
 *.js linguist-language=JavaScript
 *.md linguist-language=Markdown
+*.py linguist-language=Python
 
 # Don't count certain files as code
 *.gif linguist-vendored
