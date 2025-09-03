@@ -7,5 +7,7 @@ env/** linguist-vendored
 docs/** linguist-documentation
 *.html linguist-documentation
 
-# Mark Python as the primary language
-*.py linguist-language=Python
+# Don't count certain files as code
+*.gif linguist-vendored
+*.jpg linguist-vendored
+*.png linguist-vendored
