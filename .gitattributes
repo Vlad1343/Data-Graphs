@@ -1,0 +1,11 @@
+# Ignore virtual environment files from language statistics
+.venv/** linguist-vendored
+venv/** linguist-vendored
+env/** linguist-vendored
+
+# Ignore documentation and generated files
+docs/** linguist-documentation
+*.html linguist-documentation
+
+# Mark Python as the primary language
+*.py linguist-language=Python
