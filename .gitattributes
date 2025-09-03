@@ -5,7 +5,14 @@ env/** linguist-vendored
 
 # Ignore documentation and generated files
 docs/** linguist-documentation
-*.html linguist-documentation
+
+# Explicitly mark data files as code
+*.json linguist-language=JSON
+*.csv linguist-language=CSV
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+*.md linguist-language=Markdown
 
 # Don't count certain files as code
 *.gif linguist-vendored
